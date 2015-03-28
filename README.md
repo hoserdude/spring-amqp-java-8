@@ -1,5 +1,5 @@
 # spring-amqp-java-8
-Example project to work through running on Java 8
+Example project to work through running on Java 8 (http://stackoverflow.com/questions/29314696/are-anonymous-queues-in-spring-amqp-supported-in-java-8)
 
 # Requirements
 * RabbitMQ 3.4.2
