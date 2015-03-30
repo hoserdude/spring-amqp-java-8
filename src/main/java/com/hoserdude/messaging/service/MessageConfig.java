@@ -39,7 +39,7 @@ public class MessageConfig {
 	 */
 	@Bean()
 	public Queue clientQueue() {
-		return amqpAdmin.declareQueue();
+		return new AnonymousQueue();
 	}
 
 	/**
